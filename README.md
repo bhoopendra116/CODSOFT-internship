@@ -10,3 +10,6 @@ In this project I used tkinter and random modules.
 <br>
 <br>
 3. Third project is Calculator created using basic arthmetic operation. <br>This program is written in python programming.<br>This calculator can perform all the basic mathematical calculations.<br>This project is a part of Codsoft python programming internship.
+<br>
+<br>
+All tasks of Codsoft python programming internship is completed.
