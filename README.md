@@ -1,2 +1,3 @@
 # Codsoft-internship
 This repository is a python programming internship repository. In this repository there are three projects. 
+1. First project is contact book created using python programming language. <br>In this project we can add new contact, update contact , delete contact and view contacts that are present in the contact book.<br>This project provide a GUI interface where we can manage our contacts.<br> This project is a part of Codsoft python programming internship. 
