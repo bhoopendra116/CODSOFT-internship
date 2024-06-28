@@ -7,3 +7,6 @@ This repository is a python programming internship repository. In this repositor
 This project generates a random password using all the alphabetic and numeric letters.It also use symbols to generate a strong password.
 <br>
 In this project I used tkinter and random modules. 
+<br>
+<br>
+3. Third project is Calculator created using basic arthmetic operation. <br>This program is written in python programming.<br>This calculator can perform all the basic mathematical calculations.<br>This project is a part of Codsoft python programming internship.
